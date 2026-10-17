@@ -1,0 +1,951 @@
+950 comprobaciones superadas.
+Ruta válida: Base: ruta directa con riesgo/bfs
+Ruta válida: Base: ruta directa con riesgo/dijkstra
+Ruta válida: Base: ruta directa con riesgo/astar
+Ruta válida: Bloqueo de una celda de la ruta/bfs
+Ruta válida: Bloqueo de una celda de la ruta/dijkstra
+Ruta válida: Bloqueo de una celda de la ruta/astar
+Refugio aislado/bfs
+Refugio aislado/dijkstra
+Refugio aislado/astar
+Ruta válida: Corredor central ahora seco/bfs
+Ruta válida: Corredor central ahora seco/dijkstra
+Ruta válida: Corredor central ahora seco/astar
+El camino corto no minimiza el costo
+El bloqueo invalida la ruta anterior
+Evita nueva celda bloqueada: bfs
+Evita nueva celda bloqueada: dijkstra
+Evita nueva celda bloqueada: astar
+El riesgo cambia la decisión
+Corredor seco tiene costo mínimo Manhattan
+Inicio igual a refugio: bfs
+Extremo bloqueado: bfs
+Inicio igual a refugio: dijkstra
+Extremo bloqueado: dijkstra
+Inicio igual a refugio: astar
+Extremo bloqueado: astar
+Validador rechaza salto
+Validador rechaza inundación severa
+Validador rechaza ruta truncada
+Entrada inválida rechazada
+Entrada inválida rechazada
+Entrada inválida rechazada
+Entrada inválida rechazada
+Entrada inválida rechazada
+Entrada inválida rechazada
+Oráculo caso 0, alfa 0, dijkstra
+Oráculo caso 0, alfa 0, astar
+BFS óptimo con costos uniformes: 0
+Oráculo caso 0, alfa 0.5, dijkstra
+Oráculo caso 0, alfa 0.5, astar
+Oráculo caso 0, alfa 2, dijkstra
+Oráculo caso 0, alfa 2, astar
+Oráculo caso 0, alfa 5, dijkstra
+Oráculo caso 0, alfa 5, astar
+Oráculo caso 1, alfa 0, dijkstra
+Validez aleatoria 1/0/dijkstra
+Oráculo caso 1, alfa 0, astar
+Validez aleatoria 1/0/astar
+BFS óptimo con costos uniformes: 1
+Oráculo caso 1, alfa 0.5, dijkstra
+Validez aleatoria 1/0.5/dijkstra
+Oráculo caso 1, alfa 0.5, astar
+Validez aleatoria 1/0.5/astar
+Oráculo caso 1, alfa 2, dijkstra
+Validez aleatoria 1/2/dijkstra
+Oráculo caso 1, alfa 2, astar
+Validez aleatoria 1/2/astar
+Oráculo caso 1, alfa 5, dijkstra
+Validez aleatoria 1/5/dijkstra
+Oráculo caso 1, alfa 5, astar
+Validez aleatoria 1/5/astar
+Oráculo caso 2, alfa 0, dijkstra
+Oráculo caso 2, alfa 0, astar
+BFS óptimo con costos uniformes: 2
+Oráculo caso 2, alfa 0.5, dijkstra
+Oráculo caso 2, alfa 0.5, astar
+Oráculo caso 2, alfa 2, dijkstra
+Oráculo caso 2, alfa 2, astar
+Oráculo caso 2, alfa 5, dijkstra
+Oráculo caso 2, alfa 5, astar
+Oráculo caso 3, alfa 0, dijkstra
+Validez aleatoria 3/0/dijkstra
+Oráculo caso 3, alfa 0, astar
+Validez aleatoria 3/0/astar
+BFS óptimo con costos uniformes: 3
+Oráculo caso 3, alfa 0.5, dijkstra
+Validez aleatoria 3/0.5/dijkstra
+Oráculo caso 3, alfa 0.5, astar
+Validez aleatoria 3/0.5/astar
+Oráculo caso 3, alfa 2, dijkstra
+Validez aleatoria 3/2/dijkstra
+Oráculo caso 3, alfa 2, astar
+Validez aleatoria 3/2/astar
+Oráculo caso 3, alfa 5, dijkstra
+Validez aleatoria 3/5/dijkstra
+Oráculo caso 3, alfa 5, astar
+Validez aleatoria 3/5/astar
+Oráculo caso 4, alfa 0, dijkstra
+Validez aleatoria 4/0/dijkstra
+Oráculo caso 4, alfa 0, astar
+Validez aleatoria 4/0/astar
+BFS óptimo con costos uniformes: 4
+Oráculo caso 4, alfa 0.5, dijkstra
+Validez aleatoria 4/0.5/dijkstra
+Oráculo caso 4, alfa 0.5, astar
+Validez aleatoria 4/0.5/astar
+Oráculo caso 4, alfa 2, dijkstra
+Validez aleatoria 4/2/dijkstra
+Oráculo caso 4, alfa 2, astar
+Validez aleatoria 4/2/astar
+Oráculo caso 4, alfa 5, dijkstra
+Validez aleatoria 4/5/dijkstra
+Oráculo caso 4, alfa 5, astar
+Validez aleatoria 4/5/astar
+Oráculo caso 5, alfa 0, dijkstra
+Validez aleatoria 5/0/dijkstra
+Oráculo caso 5, alfa 0, astar
+Validez aleatoria 5/0/astar
+BFS óptimo con costos uniformes: 5
+Oráculo caso 5, alfa 0.5, dijkstra
+Validez aleatoria 5/0.5/dijkstra
+Oráculo caso 5, alfa 0.5, astar
+Validez aleatoria 5/0.5/astar
+Oráculo caso 5, alfa 2, dijkstra
+Validez aleatoria 5/2/dijkstra
+Oráculo caso 5, alfa 2, astar
+Validez aleatoria 5/2/astar
+Oráculo caso 5, alfa 5, dijkstra
+Validez aleatoria 5/5/dijkstra
+Oráculo caso 5, alfa 5, astar
+Validez aleatoria 5/5/astar
+Oráculo caso 6, alfa 0, dijkstra
+Validez aleatoria 6/0/dijkstra
+Oráculo caso 6, alfa 0, astar
+Validez aleatoria 6/0/astar
+BFS óptimo con costos uniformes: 6
+Oráculo caso 6, alfa 0.5, dijkstra
+Validez aleatoria 6/0.5/dijkstra
+Oráculo caso 6, alfa 0.5, astar
+Validez aleatoria 6/0.5/astar
+Oráculo caso 6, alfa 2, dijkstra
+Validez aleatoria 6/2/dijkstra
+Oráculo caso 6, alfa 2, astar
+Validez aleatoria 6/2/astar
+Oráculo caso 6, alfa 5, dijkstra
+Validez aleatoria 6/5/dijkstra
+Oráculo caso 6, alfa 5, astar
+Validez aleatoria 6/5/astar
+Oráculo caso 7, alfa 0, dijkstra
+Validez aleatoria 7/0/dijkstra
+Oráculo caso 7, alfa 0, astar
+Validez aleatoria 7/0/astar
+BFS óptimo con costos uniformes: 7
+Oráculo caso 7, alfa 0.5, dijkstra
+Validez aleatoria 7/0.5/dijkstra
+Oráculo caso 7, alfa 0.5, astar
+Validez aleatoria 7/0.5/astar
+Oráculo caso 7, alfa 2, dijkstra
+Validez aleatoria 7/2/dijkstra
+Oráculo caso 7, alfa 2, astar
+Validez aleatoria 7/2/astar
+Oráculo caso 7, alfa 5, dijkstra
+Validez aleatoria 7/5/dijkstra
+Oráculo caso 7, alfa 5, astar
+Validez aleatoria 7/5/astar
+Oráculo caso 8, alfa 0, dijkstra
+Validez aleatoria 8/0/dijkstra
+Oráculo caso 8, alfa 0, astar
+Validez aleatoria 8/0/astar
+BFS óptimo con costos uniformes: 8
+Oráculo caso 8, alfa 0.5, dijkstra
+Validez aleatoria 8/0.5/dijkstra
+Oráculo caso 8, alfa 0.5, astar
+Validez aleatoria 8/0.5/astar
+Oráculo caso 8, alfa 2, dijkstra
+Validez aleatoria 8/2/dijkstra
+Oráculo caso 8, alfa 2, astar
+Validez aleatoria 8/2/astar
+Oráculo caso 8, alfa 5, dijkstra
+Validez aleatoria 8/5/dijkstra
+Oráculo caso 8, alfa 5, astar
+Validez aleatoria 8/5/astar
+Oráculo caso 9, alfa 0, dijkstra
+Validez aleatoria 9/0/dijkstra
+Oráculo caso 9, alfa 0, astar
+Validez aleatoria 9/0/astar
+BFS óptimo con costos uniformes: 9
+Oráculo caso 9, alfa 0.5, dijkstra
+Validez aleatoria 9/0.5/dijkstra
+Oráculo caso 9, alfa 0.5, astar
+Validez aleatoria 9/0.5/astar
+Oráculo caso 9, alfa 2, dijkstra
+Validez aleatoria 9/2/dijkstra
+Oráculo caso 9, alfa 2, astar
+Validez aleatoria 9/2/astar
+Oráculo caso 9, alfa 5, dijkstra
+Validez aleatoria 9/5/dijkstra
+Oráculo caso 9, alfa 5, astar
+Validez aleatoria 9/5/astar
+Oráculo caso 10, alfa 0, dijkstra
+Oráculo caso 10, alfa 0, astar
+BFS óptimo con costos uniformes: 10
+Oráculo caso 10, alfa 0.5, dijkstra
+Oráculo caso 10, alfa 0.5, astar
+Oráculo caso 10, alfa 2, dijkstra
+Oráculo caso 10, alfa 2, astar
+Oráculo caso 10, alfa 5, dijkstra
+Oráculo caso 10, alfa 5, astar
+Oráculo caso 11, alfa 0, dijkstra
+Oráculo caso 11, alfa 0, astar
+BFS óptimo con costos uniformes: 11
+Oráculo caso 11, alfa 0.5, dijkstra
+Oráculo caso 11, alfa 0.5, astar
+Oráculo caso 11, alfa 2, dijkstra
+Oráculo caso 11, alfa 2, astar
+Oráculo caso 11, alfa 5, dijkstra
+Oráculo caso 11, alfa 5, astar
+Oráculo caso 12, alfa 0, dijkstra
+Validez aleatoria 12/0/dijkstra
+Oráculo caso 12, alfa 0, astar
+Validez aleatoria 12/0/astar
+BFS óptimo con costos uniformes: 12
+Oráculo caso 12, alfa 0.5, dijkstra
+Validez aleatoria 12/0.5/dijkstra
+Oráculo caso 12, alfa 0.5, astar
+Validez aleatoria 12/0.5/astar
+Oráculo caso 12, alfa 2, dijkstra
+Validez aleatoria 12/2/dijkstra
+Oráculo caso 12, alfa 2, astar
+Validez aleatoria 12/2/astar
+Oráculo caso 12, alfa 5, dijkstra
+Validez aleatoria 12/5/dijkstra
+Oráculo caso 12, alfa 5, astar
+Validez aleatoria 12/5/astar
+Oráculo caso 13, alfa 0, dijkstra
+Validez aleatoria 13/0/dijkstra
+Oráculo caso 13, alfa 0, astar
+Validez aleatoria 13/0/astar
+BFS óptimo con costos uniformes: 13
+Oráculo caso 13, alfa 0.5, dijkstra
+Validez aleatoria 13/0.5/dijkstra
+Oráculo caso 13, alfa 0.5, astar
+Validez aleatoria 13/0.5/astar
+Oráculo caso 13, alfa 2, dijkstra
+Validez aleatoria 13/2/dijkstra
+Oráculo caso 13, alfa 2, astar
+Validez aleatoria 13/2/astar
+Oráculo caso 13, alfa 5, dijkstra
+Validez aleatoria 13/5/dijkstra
+Oráculo caso 13, alfa 5, astar
+Validez aleatoria 13/5/astar
+Oráculo caso 14, alfa 0, dijkstra
+Validez aleatoria 14/0/dijkstra
+Oráculo caso 14, alfa 0, astar
+Validez aleatoria 14/0/astar
+BFS óptimo con costos uniformes: 14
+Oráculo caso 14, alfa 0.5, dijkstra
+Validez aleatoria 14/0.5/dijkstra
+Oráculo caso 14, alfa 0.5, astar
+Validez aleatoria 14/0.5/astar
+Oráculo caso 14, alfa 2, dijkstra
+Validez aleatoria 14/2/dijkstra
+Oráculo caso 14, alfa 2, astar
+Validez aleatoria 14/2/astar
+Oráculo caso 14, alfa 5, dijkstra
+Validez aleatoria 14/5/dijkstra
+Oráculo caso 14, alfa 5, astar
+Validez aleatoria 14/5/astar
+Oráculo caso 15, alfa 0, dijkstra
+Validez aleatoria 15/0/dijkstra
+Oráculo caso 15, alfa 0, astar
+Validez aleatoria 15/0/astar
+BFS óptimo con costos uniformes: 15
+Oráculo caso 15, alfa 0.5, dijkstra
+Validez aleatoria 15/0.5/dijkstra
+Oráculo caso 15, alfa 0.5, astar
+Validez aleatoria 15/0.5/astar
+Oráculo caso 15, alfa 2, dijkstra
+Validez aleatoria 15/2/dijkstra
+Oráculo caso 15, alfa 2, astar
+Validez aleatoria 15/2/astar
+Oráculo caso 15, alfa 5, dijkstra
+Validez aleatoria 15/5/dijkstra
+Oráculo caso 15, alfa 5, astar
+Validez aleatoria 15/5/astar
+Oráculo caso 16, alfa 0, dijkstra
+Validez aleatoria 16/0/dijkstra
+Oráculo caso 16, alfa 0, astar
+Validez aleatoria 16/0/astar
+BFS óptimo con costos uniformes: 16
+Oráculo caso 16, alfa 0.5, dijkstra
+Validez aleatoria 16/0.5/dijkstra
+Oráculo caso 16, alfa 0.5, astar
+Validez aleatoria 16/0.5/astar
+Oráculo caso 16, alfa 2, dijkstra
+Validez aleatoria 16/2/dijkstra
+Oráculo caso 16, alfa 2, astar
+Validez aleatoria 16/2/astar
+Oráculo caso 16, alfa 5, dijkstra
+Validez aleatoria 16/5/dijkstra
+Oráculo caso 16, alfa 5, astar
+Validez aleatoria 16/5/astar
+Oráculo caso 17, alfa 0, dijkstra
+Validez aleatoria 17/0/dijkstra
+Oráculo caso 17, alfa 0, astar
+Validez aleatoria 17/0/astar
+BFS óptimo con costos uniformes: 17
+Oráculo caso 17, alfa 0.5, dijkstra
+Validez aleatoria 17/0.5/dijkstra
+Oráculo caso 17, alfa 0.5, astar
+Validez aleatoria 17/0.5/astar
+Oráculo caso 17, alfa 2, dijkstra
+Validez aleatoria 17/2/dijkstra
+Oráculo caso 17, alfa 2, astar
+Validez aleatoria 17/2/astar
+Oráculo caso 17, alfa 5, dijkstra
+Validez aleatoria 17/5/dijkstra
+Oráculo caso 17, alfa 5, astar
+Validez aleatoria 17/5/astar
+Oráculo caso 18, alfa 0, dijkstra
+Validez aleatoria 18/0/dijkstra
+Oráculo caso 18, alfa 0, astar
+Validez aleatoria 18/0/astar
+BFS óptimo con costos uniformes: 18
+Oráculo caso 18, alfa 0.5, dijkstra
+Validez aleatoria 18/0.5/dijkstra
+Oráculo caso 18, alfa 0.5, astar
+Validez aleatoria 18/0.5/astar
+Oráculo caso 18, alfa 2, dijkstra
+Validez aleatoria 18/2/dijkstra
+Oráculo caso 18, alfa 2, astar
+Validez aleatoria 18/2/astar
+Oráculo caso 18, alfa 5, dijkstra
+Validez aleatoria 18/5/dijkstra
+Oráculo caso 18, alfa 5, astar
+Validez aleatoria 18/5/astar
+Oráculo caso 19, alfa 0, dijkstra
+Validez aleatoria 19/0/dijkstra
+Oráculo caso 19, alfa 0, astar
+Validez aleatoria 19/0/astar
+BFS óptimo con costos uniformes: 19
+Oráculo caso 19, alfa 0.5, dijkstra
+Validez aleatoria 19/0.5/dijkstra
+Oráculo caso 19, alfa 0.5, astar
+Validez aleatoria 19/0.5/astar
+Oráculo caso 19, alfa 2, dijkstra
+Validez aleatoria 19/2/dijkstra
+Oráculo caso 19, alfa 2, astar
+Validez aleatoria 19/2/astar
+Oráculo caso 19, alfa 5, dijkstra
+Validez aleatoria 19/5/dijkstra
+Oráculo caso 19, alfa 5, astar
+Validez aleatoria 19/5/astar
+Oráculo caso 20, alfa 0, dijkstra
+Validez aleatoria 20/0/dijkstra
+Oráculo caso 20, alfa 0, astar
+Validez aleatoria 20/0/astar
+BFS óptimo con costos uniformes: 20
+Oráculo caso 20, alfa 0.5, dijkstra
+Validez aleatoria 20/0.5/dijkstra
+Oráculo caso 20, alfa 0.5, astar
+Validez aleatoria 20/0.5/astar
+Oráculo caso 20, alfa 2, dijkstra
+Validez aleatoria 20/2/dijkstra
+Oráculo caso 20, alfa 2, astar
+Validez aleatoria 20/2/astar
+Oráculo caso 20, alfa 5, dijkstra
+Validez aleatoria 20/5/dijkstra
+Oráculo caso 20, alfa 5, astar
+Validez aleatoria 20/5/astar
+Oráculo caso 21, alfa 0, dijkstra
+Validez aleatoria 21/0/dijkstra
+Oráculo caso 21, alfa 0, astar
+Validez aleatoria 21/0/astar
+BFS óptimo con costos uniformes: 21
+Oráculo caso 21, alfa 0.5, dijkstra
+Validez aleatoria 21/0.5/dijkstra
+Oráculo caso 21, alfa 0.5, astar
+Validez aleatoria 21/0.5/astar
+Oráculo caso 21, alfa 2, dijkstra
+Validez aleatoria 21/2/dijkstra
+Oráculo caso 21, alfa 2, astar
+Validez aleatoria 21/2/astar
+Oráculo caso 21, alfa 5, dijkstra
+Validez aleatoria 21/5/dijkstra
+Oráculo caso 21, alfa 5, astar
+Validez aleatoria 21/5/astar
+Oráculo caso 22, alfa 0, dijkstra
+Validez aleatoria 22/0/dijkstra
+Oráculo caso 22, alfa 0, astar
+Validez aleatoria 22/0/astar
+BFS óptimo con costos uniformes: 22
+Oráculo caso 22, alfa 0.5, dijkstra
+Validez aleatoria 22/0.5/dijkstra
+Oráculo caso 22, alfa 0.5, astar
+Validez aleatoria 22/0.5/astar
+Oráculo caso 22, alfa 2, dijkstra
+Validez aleatoria 22/2/dijkstra
+Oráculo caso 22, alfa 2, astar
+Validez aleatoria 22/2/astar
+Oráculo caso 22, alfa 5, dijkstra
+Validez aleatoria 22/5/dijkstra
+Oráculo caso 22, alfa 5, astar
+Validez aleatoria 22/5/astar
+Oráculo caso 23, alfa 0, dijkstra
+Oráculo caso 23, alfa 0, astar
+BFS óptimo con costos uniformes: 23
+Oráculo caso 23, alfa 0.5, dijkstra
+Oráculo caso 23, alfa 0.5, astar
+Oráculo caso 23, alfa 2, dijkstra
+Oráculo caso 23, alfa 2, astar
+Oráculo caso 23, alfa 5, dijkstra
+Oráculo caso 23, alfa 5, astar
+Oráculo caso 24, alfa 0, dijkstra
+Validez aleatoria 24/0/dijkstra
+Oráculo caso 24, alfa 0, astar
+Validez aleatoria 24/0/astar
+BFS óptimo con costos uniformes: 24
+Oráculo caso 24, alfa 0.5, dijkstra
+Validez aleatoria 24/0.5/dijkstra
+Oráculo caso 24, alfa 0.5, astar
+Validez aleatoria 24/0.5/astar
+Oráculo caso 24, alfa 2, dijkstra
+Validez aleatoria 24/2/dijkstra
+Oráculo caso 24, alfa 2, astar
+Validez aleatoria 24/2/astar
+Oráculo caso 24, alfa 5, dijkstra
+Validez aleatoria 24/5/dijkstra
+Oráculo caso 24, alfa 5, astar
+Validez aleatoria 24/5/astar
+Oráculo caso 25, alfa 0, dijkstra
+Oráculo caso 25, alfa 0, astar
+BFS óptimo con costos uniformes: 25
+Oráculo caso 25, alfa 0.5, dijkstra
+Oráculo caso 25, alfa 0.5, astar
+Oráculo caso 25, alfa 2, dijkstra
+Oráculo caso 25, alfa 2, astar
+Oráculo caso 25, alfa 5, dijkstra
+Oráculo caso 25, alfa 5, astar
+Oráculo caso 26, alfa 0, dijkstra
+Validez aleatoria 26/0/dijkstra
+Oráculo caso 26, alfa 0, astar
+Validez aleatoria 26/0/astar
+BFS óptimo con costos uniformes: 26
+Oráculo caso 26, alfa 0.5, dijkstra
+Validez aleatoria 26/0.5/dijkstra
+Oráculo caso 26, alfa 0.5, astar
+Validez aleatoria 26/0.5/astar
+Oráculo caso 26, alfa 2, dijkstra
+Validez aleatoria 26/2/dijkstra
+Oráculo caso 26, alfa 2, astar
+Validez aleatoria 26/2/astar
+Oráculo caso 26, alfa 5, dijkstra
+Validez aleatoria 26/5/dijkstra
+Oráculo caso 26, alfa 5, astar
+Validez aleatoria 26/5/astar
+Oráculo caso 27, alfa 0, dijkstra
+Oráculo caso 27, alfa 0, astar
+BFS óptimo con costos uniformes: 27
+Oráculo caso 27, alfa 0.5, dijkstra
+Oráculo caso 27, alfa 0.5, astar
+Oráculo caso 27, alfa 2, dijkstra
+Oráculo caso 27, alfa 2, astar
+Oráculo caso 27, alfa 5, dijkstra
+Oráculo caso 27, alfa 5, astar
+Oráculo caso 28, alfa 0, dijkstra
+Oráculo caso 28, alfa 0, astar
+BFS óptimo con costos uniformes: 28
+Oráculo caso 28, alfa 0.5, dijkstra
+Oráculo caso 28, alfa 0.5, astar
+Oráculo caso 28, alfa 2, dijkstra
+Oráculo caso 28, alfa 2, astar
+Oráculo caso 28, alfa 5, dijkstra
+Oráculo caso 28, alfa 5, astar
+Oráculo caso 29, alfa 0, dijkstra
+Validez aleatoria 29/0/dijkstra
+Oráculo caso 29, alfa 0, astar
+Validez aleatoria 29/0/astar
+BFS óptimo con costos uniformes: 29
+Oráculo caso 29, alfa 0.5, dijkstra
+Validez aleatoria 29/0.5/dijkstra
+Oráculo caso 29, alfa 0.5, astar
+Validez aleatoria 29/0.5/astar
+Oráculo caso 29, alfa 2, dijkstra
+Validez aleatoria 29/2/dijkstra
+Oráculo caso 29, alfa 2, astar
+Validez aleatoria 29/2/astar
+Oráculo caso 29, alfa 5, dijkstra
+Validez aleatoria 29/5/dijkstra
+Oráculo caso 29, alfa 5, astar
+Validez aleatoria 29/5/astar
+Oráculo caso 30, alfa 0, dijkstra
+Validez aleatoria 30/0/dijkstra
+Oráculo caso 30, alfa 0, astar
+Validez aleatoria 30/0/astar
+BFS óptimo con costos uniformes: 30
+Oráculo caso 30, alfa 0.5, dijkstra
+Validez aleatoria 30/0.5/dijkstra
+Oráculo caso 30, alfa 0.5, astar
+Validez aleatoria 30/0.5/astar
+Oráculo caso 30, alfa 2, dijkstra
+Validez aleatoria 30/2/dijkstra
+Oráculo caso 30, alfa 2, astar
+Validez aleatoria 30/2/astar
+Oráculo caso 30, alfa 5, dijkstra
+Validez aleatoria 30/5/dijkstra
+Oráculo caso 30, alfa 5, astar
+Validez aleatoria 30/5/astar
+Oráculo caso 31, alfa 0, dijkstra
+Validez aleatoria 31/0/dijkstra
+Oráculo caso 31, alfa 0, astar
+Validez aleatoria 31/0/astar
+BFS óptimo con costos uniformes: 31
+Oráculo caso 31, alfa 0.5, dijkstra
+Validez aleatoria 31/0.5/dijkstra
+Oráculo caso 31, alfa 0.5, astar
+Validez aleatoria 31/0.5/astar
+Oráculo caso 31, alfa 2, dijkstra
+Validez aleatoria 31/2/dijkstra
+Oráculo caso 31, alfa 2, astar
+Validez aleatoria 31/2/astar
+Oráculo caso 31, alfa 5, dijkstra
+Validez aleatoria 31/5/dijkstra
+Oráculo caso 31, alfa 5, astar
+Validez aleatoria 31/5/astar
+Oráculo caso 32, alfa 0, dijkstra
+Validez aleatoria 32/0/dijkstra
+Oráculo caso 32, alfa 0, astar
+Validez aleatoria 32/0/astar
+BFS óptimo con costos uniformes: 32
+Oráculo caso 32, alfa 0.5, dijkstra
+Validez aleatoria 32/0.5/dijkstra
+Oráculo caso 32, alfa 0.5, astar
+Validez aleatoria 32/0.5/astar
+Oráculo caso 32, alfa 2, dijkstra
+Validez aleatoria 32/2/dijkstra
+Oráculo caso 32, alfa 2, astar
+Validez aleatoria 32/2/astar
+Oráculo caso 32, alfa 5, dijkstra
+Validez aleatoria 32/5/dijkstra
+Oráculo caso 32, alfa 5, astar
+Validez aleatoria 32/5/astar
+Oráculo caso 33, alfa 0, dijkstra
+Validez aleatoria 33/0/dijkstra
+Oráculo caso 33, alfa 0, astar
+Validez aleatoria 33/0/astar
+BFS óptimo con costos uniformes: 33
+Oráculo caso 33, alfa 0.5, dijkstra
+Validez aleatoria 33/0.5/dijkstra
+Oráculo caso 33, alfa 0.5, astar
+Validez aleatoria 33/0.5/astar
+Oráculo caso 33, alfa 2, dijkstra
+Validez aleatoria 33/2/dijkstra
+Oráculo caso 33, alfa 2, astar
+Validez aleatoria 33/2/astar
+Oráculo caso 33, alfa 5, dijkstra
+Validez aleatoria 33/5/dijkstra
+Oráculo caso 33, alfa 5, astar
+Validez aleatoria 33/5/astar
+Oráculo caso 34, alfa 0, dijkstra
+Validez aleatoria 34/0/dijkstra
+Oráculo caso 34, alfa 0, astar
+Validez aleatoria 34/0/astar
+BFS óptimo con costos uniformes: 34
+Oráculo caso 34, alfa 0.5, dijkstra
+Validez aleatoria 34/0.5/dijkstra
+Oráculo caso 34, alfa 0.5, astar
+Validez aleatoria 34/0.5/astar
+Oráculo caso 34, alfa 2, dijkstra
+Validez aleatoria 34/2/dijkstra
+Oráculo caso 34, alfa 2, astar
+Validez aleatoria 34/2/astar
+Oráculo caso 34, alfa 5, dijkstra
+Validez aleatoria 34/5/dijkstra
+Oráculo caso 34, alfa 5, astar
+Validez aleatoria 34/5/astar
+Oráculo caso 35, alfa 0, dijkstra
+Validez aleatoria 35/0/dijkstra
+Oráculo caso 35, alfa 0, astar
+Validez aleatoria 35/0/astar
+BFS óptimo con costos uniformes: 35
+Oráculo caso 35, alfa 0.5, dijkstra
+Validez aleatoria 35/0.5/dijkstra
+Oráculo caso 35, alfa 0.5, astar
+Validez aleatoria 35/0.5/astar
+Oráculo caso 35, alfa 2, dijkstra
+Validez aleatoria 35/2/dijkstra
+Oráculo caso 35, alfa 2, astar
+Validez aleatoria 35/2/astar
+Oráculo caso 35, alfa 5, dijkstra
+Validez aleatoria 35/5/dijkstra
+Oráculo caso 35, alfa 5, astar
+Validez aleatoria 35/5/astar
+Oráculo caso 36, alfa 0, dijkstra
+Validez aleatoria 36/0/dijkstra
+Oráculo caso 36, alfa 0, astar
+Validez aleatoria 36/0/astar
+BFS óptimo con costos uniformes: 36
+Oráculo caso 36, alfa 0.5, dijkstra
+Validez aleatoria 36/0.5/dijkstra
+Oráculo caso 36, alfa 0.5, astar
+Validez aleatoria 36/0.5/astar
+Oráculo caso 36, alfa 2, dijkstra
+Validez aleatoria 36/2/dijkstra
+Oráculo caso 36, alfa 2, astar
+Validez aleatoria 36/2/astar
+Oráculo caso 36, alfa 5, dijkstra
+Validez aleatoria 36/5/dijkstra
+Oráculo caso 36, alfa 5, astar
+Validez aleatoria 36/5/astar
+Oráculo caso 37, alfa 0, dijkstra
+Oráculo caso 37, alfa 0, astar
+BFS óptimo con costos uniformes: 37
+Oráculo caso 37, alfa 0.5, dijkstra
+Oráculo caso 37, alfa 0.5, astar
+Oráculo caso 37, alfa 2, dijkstra
+Oráculo caso 37, alfa 2, astar
+Oráculo caso 37, alfa 5, dijkstra
+Oráculo caso 37, alfa 5, astar
+Oráculo caso 38, alfa 0, dijkstra
+Oráculo caso 38, alfa 0, astar
+BFS óptimo con costos uniformes: 38
+Oráculo caso 38, alfa 0.5, dijkstra
+Oráculo caso 38, alfa 0.5, astar
+Oráculo caso 38, alfa 2, dijkstra
+Oráculo caso 38, alfa 2, astar
+Oráculo caso 38, alfa 5, dijkstra
+Oráculo caso 38, alfa 5, astar
+Oráculo caso 39, alfa 0, dijkstra
+Validez aleatoria 39/0/dijkstra
+Oráculo caso 39, alfa 0, astar
+Validez aleatoria 39/0/astar
+BFS óptimo con costos uniformes: 39
+Oráculo caso 39, alfa 0.5, dijkstra
+Validez aleatoria 39/0.5/dijkstra
+Oráculo caso 39, alfa 0.5, astar
+Validez aleatoria 39/0.5/astar
+Oráculo caso 39, alfa 2, dijkstra
+Validez aleatoria 39/2/dijkstra
+Oráculo caso 39, alfa 2, astar
+Validez aleatoria 39/2/astar
+Oráculo caso 39, alfa 5, dijkstra
+Validez aleatoria 39/5/dijkstra
+Oráculo caso 39, alfa 5, astar
+Validez aleatoria 39/5/astar
+Oráculo caso 40, alfa 0, dijkstra
+Validez aleatoria 40/0/dijkstra
+Oráculo caso 40, alfa 0, astar
+Validez aleatoria 40/0/astar
+BFS óptimo con costos uniformes: 40
+Oráculo caso 40, alfa 0.5, dijkstra
+Validez aleatoria 40/0.5/dijkstra
+Oráculo caso 40, alfa 0.5, astar
+Validez aleatoria 40/0.5/astar
+Oráculo caso 40, alfa 2, dijkstra
+Validez aleatoria 40/2/dijkstra
+Oráculo caso 40, alfa 2, astar
+Validez aleatoria 40/2/astar
+Oráculo caso 40, alfa 5, dijkstra
+Validez aleatoria 40/5/dijkstra
+Oráculo caso 40, alfa 5, astar
+Validez aleatoria 40/5/astar
+Oráculo caso 41, alfa 0, dijkstra
+Validez aleatoria 41/0/dijkstra
+Oráculo caso 41, alfa 0, astar
+Validez aleatoria 41/0/astar
+BFS óptimo con costos uniformes: 41
+Oráculo caso 41, alfa 0.5, dijkstra
+Validez aleatoria 41/0.5/dijkstra
+Oráculo caso 41, alfa 0.5, astar
+Validez aleatoria 41/0.5/astar
+Oráculo caso 41, alfa 2, dijkstra
+Validez aleatoria 41/2/dijkstra
+Oráculo caso 41, alfa 2, astar
+Validez aleatoria 41/2/astar
+Oráculo caso 41, alfa 5, dijkstra
+Validez aleatoria 41/5/dijkstra
+Oráculo caso 41, alfa 5, astar
+Validez aleatoria 41/5/astar
+Oráculo caso 42, alfa 0, dijkstra
+Oráculo caso 42, alfa 0, astar
+BFS óptimo con costos uniformes: 42
+Oráculo caso 42, alfa 0.5, dijkstra
+Oráculo caso 42, alfa 0.5, astar
+Oráculo caso 42, alfa 2, dijkstra
+Oráculo caso 42, alfa 2, astar
+Oráculo caso 42, alfa 5, dijkstra
+Oráculo caso 42, alfa 5, astar
+Oráculo caso 43, alfa 0, dijkstra
+Validez aleatoria 43/0/dijkstra
+Oráculo caso 43, alfa 0, astar
+Validez aleatoria 43/0/astar
+BFS óptimo con costos uniformes: 43
+Oráculo caso 43, alfa 0.5, dijkstra
+Validez aleatoria 43/0.5/dijkstra
+Oráculo caso 43, alfa 0.5, astar
+Validez aleatoria 43/0.5/astar
+Oráculo caso 43, alfa 2, dijkstra
+Validez aleatoria 43/2/dijkstra
+Oráculo caso 43, alfa 2, astar
+Validez aleatoria 43/2/astar
+Oráculo caso 43, alfa 5, dijkstra
+Validez aleatoria 43/5/dijkstra
+Oráculo caso 43, alfa 5, astar
+Validez aleatoria 43/5/astar
+Oráculo caso 44, alfa 0, dijkstra
+Validez aleatoria 44/0/dijkstra
+Oráculo caso 44, alfa 0, astar
+Validez aleatoria 44/0/astar
+BFS óptimo con costos uniformes: 44
+Oráculo caso 44, alfa 0.5, dijkstra
+Validez aleatoria 44/0.5/dijkstra
+Oráculo caso 44, alfa 0.5, astar
+Validez aleatoria 44/0.5/astar
+Oráculo caso 44, alfa 2, dijkstra
+Validez aleatoria 44/2/dijkstra
+Oráculo caso 44, alfa 2, astar
+Validez aleatoria 44/2/astar
+Oráculo caso 44, alfa 5, dijkstra
+Validez aleatoria 44/5/dijkstra
+Oráculo caso 44, alfa 5, astar
+Validez aleatoria 44/5/astar
+Oráculo caso 45, alfa 0, dijkstra
+Oráculo caso 45, alfa 0, astar
+BFS óptimo con costos uniformes: 45
+Oráculo caso 45, alfa 0.5, dijkstra
+Oráculo caso 45, alfa 0.5, astar
+Oráculo caso 45, alfa 2, dijkstra
+Oráculo caso 45, alfa 2, astar
+Oráculo caso 45, alfa 5, dijkstra
+Oráculo caso 45, alfa 5, astar
+Oráculo caso 46, alfa 0, dijkstra
+Validez aleatoria 46/0/dijkstra
+Oráculo caso 46, alfa 0, astar
+Validez aleatoria 46/0/astar
+BFS óptimo con costos uniformes: 46
+Oráculo caso 46, alfa 0.5, dijkstra
+Validez aleatoria 46/0.5/dijkstra
+Oráculo caso 46, alfa 0.5, astar
+Validez aleatoria 46/0.5/astar
+Oráculo caso 46, alfa 2, dijkstra
+Validez aleatoria 46/2/dijkstra
+Oráculo caso 46, alfa 2, astar
+Validez aleatoria 46/2/astar
+Oráculo caso 46, alfa 5, dijkstra
+Validez aleatoria 46/5/dijkstra
+Oráculo caso 46, alfa 5, astar
+Validez aleatoria 46/5/astar
+Oráculo caso 47, alfa 0, dijkstra
+Validez aleatoria 47/0/dijkstra
+Oráculo caso 47, alfa 0, astar
+Validez aleatoria 47/0/astar
+BFS óptimo con costos uniformes: 47
+Oráculo caso 47, alfa 0.5, dijkstra
+Validez aleatoria 47/0.5/dijkstra
+Oráculo caso 47, alfa 0.5, astar
+Validez aleatoria 47/0.5/astar
+Oráculo caso 47, alfa 2, dijkstra
+Validez aleatoria 47/2/dijkstra
+Oráculo caso 47, alfa 2, astar
+Validez aleatoria 47/2/astar
+Oráculo caso 47, alfa 5, dijkstra
+Validez aleatoria 47/5/dijkstra
+Oráculo caso 47, alfa 5, astar
+Validez aleatoria 47/5/astar
+Oráculo caso 48, alfa 0, dijkstra
+Validez aleatoria 48/0/dijkstra
+Oráculo caso 48, alfa 0, astar
+Validez aleatoria 48/0/astar
+BFS óptimo con costos uniformes: 48
+Oráculo caso 48, alfa 0.5, dijkstra
+Validez aleatoria 48/0.5/dijkstra
+Oráculo caso 48, alfa 0.5, astar
+Validez aleatoria 48/0.5/astar
+Oráculo caso 48, alfa 2, dijkstra
+Validez aleatoria 48/2/dijkstra
+Oráculo caso 48, alfa 2, astar
+Validez aleatoria 48/2/astar
+Oráculo caso 48, alfa 5, dijkstra
+Validez aleatoria 48/5/dijkstra
+Oráculo caso 48, alfa 5, astar
+Validez aleatoria 48/5/astar
+Oráculo caso 49, alfa 0, dijkstra
+Validez aleatoria 49/0/dijkstra
+Oráculo caso 49, alfa 0, astar
+Validez aleatoria 49/0/astar
+BFS óptimo con costos uniformes: 49
+Oráculo caso 49, alfa 0.5, dijkstra
+Validez aleatoria 49/0.5/dijkstra
+Oráculo caso 49, alfa 0.5, astar
+Validez aleatoria 49/0.5/astar
+Oráculo caso 49, alfa 2, dijkstra
+Validez aleatoria 49/2/dijkstra
+Oráculo caso 49, alfa 2, astar
+Validez aleatoria 49/2/astar
+Oráculo caso 49, alfa 5, dijkstra
+Validez aleatoria 49/5/dijkstra
+Oráculo caso 49, alfa 5, astar
+Validez aleatoria 49/5/astar
+Oráculo caso 50, alfa 0, dijkstra
+Validez aleatoria 50/0/dijkstra
+Oráculo caso 50, alfa 0, astar
+Validez aleatoria 50/0/astar
+BFS óptimo con costos uniformes: 50
+Oráculo caso 50, alfa 0.5, dijkstra
+Validez aleatoria 50/0.5/dijkstra
+Oráculo caso 50, alfa 0.5, astar
+Validez aleatoria 50/0.5/astar
+Oráculo caso 50, alfa 2, dijkstra
+Validez aleatoria 50/2/dijkstra
+Oráculo caso 50, alfa 2, astar
+Validez aleatoria 50/2/astar
+Oráculo caso 50, alfa 5, dijkstra
+Validez aleatoria 50/5/dijkstra
+Oráculo caso 50, alfa 5, astar
+Validez aleatoria 50/5/astar
+Oráculo caso 51, alfa 0, dijkstra
+Validez aleatoria 51/0/dijkstra
+Oráculo caso 51, alfa 0, astar
+Validez aleatoria 51/0/astar
+BFS óptimo con costos uniformes: 51
+Oráculo caso 51, alfa 0.5, dijkstra
+Validez aleatoria 51/0.5/dijkstra
+Oráculo caso 51, alfa 0.5, astar
+Validez aleatoria 51/0.5/astar
+Oráculo caso 51, alfa 2, dijkstra
+Validez aleatoria 51/2/dijkstra
+Oráculo caso 51, alfa 2, astar
+Validez aleatoria 51/2/astar
+Oráculo caso 51, alfa 5, dijkstra
+Validez aleatoria 51/5/dijkstra
+Oráculo caso 51, alfa 5, astar
+Validez aleatoria 51/5/astar
+Oráculo caso 52, alfa 0, dijkstra
+Validez aleatoria 52/0/dijkstra
+Oráculo caso 52, alfa 0, astar
+Validez aleatoria 52/0/astar
+BFS óptimo con costos uniformes: 52
+Oráculo caso 52, alfa 0.5, dijkstra
+Validez aleatoria 52/0.5/dijkstra
+Oráculo caso 52, alfa 0.5, astar
+Validez aleatoria 52/0.5/astar
+Oráculo caso 52, alfa 2, dijkstra
+Validez aleatoria 52/2/dijkstra
+Oráculo caso 52, alfa 2, astar
+Validez aleatoria 52/2/astar
+Oráculo caso 52, alfa 5, dijkstra
+Validez aleatoria 52/5/dijkstra
+Oráculo caso 52, alfa 5, astar
+Validez aleatoria 52/5/astar
+Oráculo caso 53, alfa 0, dijkstra
+Validez aleatoria 53/0/dijkstra
+Oráculo caso 53, alfa 0, astar
+Validez aleatoria 53/0/astar
+BFS óptimo con costos uniformes: 53
+Oráculo caso 53, alfa 0.5, dijkstra
+Validez aleatoria 53/0.5/dijkstra
+Oráculo caso 53, alfa 0.5, astar
+Validez aleatoria 53/0.5/astar
+Oráculo caso 53, alfa 2, dijkstra
+Validez aleatoria 53/2/dijkstra
+Oráculo caso 53, alfa 2, astar
+Validez aleatoria 53/2/astar
+Oráculo caso 53, alfa 5, dijkstra
+Validez aleatoria 53/5/dijkstra
+Oráculo caso 53, alfa 5, astar
+Validez aleatoria 53/5/astar
+Oráculo caso 54, alfa 0, dijkstra
+Validez aleatoria 54/0/dijkstra
+Oráculo caso 54, alfa 0, astar
+Validez aleatoria 54/0/astar
+BFS óptimo con costos uniformes: 54
+Oráculo caso 54, alfa 0.5, dijkstra
+Validez aleatoria 54/0.5/dijkstra
+Oráculo caso 54, alfa 0.5, astar
+Validez aleatoria 54/0.5/astar
+Oráculo caso 54, alfa 2, dijkstra
+Validez aleatoria 54/2/dijkstra
+Oráculo caso 54, alfa 2, astar
+Validez aleatoria 54/2/astar
+Oráculo caso 54, alfa 5, dijkstra
+Validez aleatoria 54/5/dijkstra
+Oráculo caso 54, alfa 5, astar
+Validez aleatoria 54/5/astar
+Oráculo caso 55, alfa 0, dijkstra
+Validez aleatoria 55/0/dijkstra
+Oráculo caso 55, alfa 0, astar
+Validez aleatoria 55/0/astar
+BFS óptimo con costos uniformes: 55
+Oráculo caso 55, alfa 0.5, dijkstra
+Validez aleatoria 55/0.5/dijkstra
+Oráculo caso 55, alfa 0.5, astar
+Validez aleatoria 55/0.5/astar
+Oráculo caso 55, alfa 2, dijkstra
+Validez aleatoria 55/2/dijkstra
+Oráculo caso 55, alfa 2, astar
+Validez aleatoria 55/2/astar
+Oráculo caso 55, alfa 5, dijkstra
+Validez aleatoria 55/5/dijkstra
+Oráculo caso 55, alfa 5, astar
+Validez aleatoria 55/5/astar
+Oráculo caso 56, alfa 0, dijkstra
+Validez aleatoria 56/0/dijkstra
+Oráculo caso 56, alfa 0, astar
+Validez aleatoria 56/0/astar
+BFS óptimo con costos uniformes: 56
+Oráculo caso 56, alfa 0.5, dijkstra
+Validez aleatoria 56/0.5/dijkstra
+Oráculo caso 56, alfa 0.5, astar
+Validez aleatoria 56/0.5/astar
+Oráculo caso 56, alfa 2, dijkstra
+Validez aleatoria 56/2/dijkstra
+Oráculo caso 56, alfa 2, astar
+Validez aleatoria 56/2/astar
+Oráculo caso 56, alfa 5, dijkstra
+Validez aleatoria 56/5/dijkstra
+Oráculo caso 56, alfa 5, astar
+Validez aleatoria 56/5/astar
+Oráculo caso 57, alfa 0, dijkstra
+Validez aleatoria 57/0/dijkstra
+Oráculo caso 57, alfa 0, astar
+Validez aleatoria 57/0/astar
+BFS óptimo con costos uniformes: 57
+Oráculo caso 57, alfa 0.5, dijkstra
+Validez aleatoria 57/0.5/dijkstra
+Oráculo caso 57, alfa 0.5, astar
+Validez aleatoria 57/0.5/astar
+Oráculo caso 57, alfa 2, dijkstra
+Validez aleatoria 57/2/dijkstra
+Oráculo caso 57, alfa 2, astar
+Validez aleatoria 57/2/astar
+Oráculo caso 57, alfa 5, dijkstra
+Validez aleatoria 57/5/dijkstra
+Oráculo caso 57, alfa 5, astar
+Validez aleatoria 57/5/astar
+Oráculo caso 58, alfa 0, dijkstra
+Validez aleatoria 58/0/dijkstra
+Oráculo caso 58, alfa 0, astar
+Validez aleatoria 58/0/astar
+BFS óptimo con costos uniformes: 58
+Oráculo caso 58, alfa 0.5, dijkstra
+Validez aleatoria 58/0.5/dijkstra
+Oráculo caso 58, alfa 0.5, astar
+Validez aleatoria 58/0.5/astar
+Oráculo caso 58, alfa 2, dijkstra
+Validez aleatoria 58/2/dijkstra
+Oráculo caso 58, alfa 2, astar
+Validez aleatoria 58/2/astar
+Oráculo caso 58, alfa 5, dijkstra
+Validez aleatoria 58/5/dijkstra
+Oráculo caso 58, alfa 5, astar
+Validez aleatoria 58/5/astar
+Oráculo caso 59, alfa 0, dijkstra
+Oráculo caso 59, alfa 0, astar
+BFS óptimo con costos uniformes: 59
+Oráculo caso 59, alfa 0.5, dijkstra
+Oráculo caso 59, alfa 0.5, astar
+Oráculo caso 59, alfa 2, dijkstra
+Oráculo caso 59, alfa 2, astar
+Oráculo caso 59, alfa 5, dijkstra
+Oráculo caso 59, alfa 5, astar

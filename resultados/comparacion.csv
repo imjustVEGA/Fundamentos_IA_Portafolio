@@ -1,0 +1,13 @@
+escenario,algoritmo,pasos,exposicion,costo,expandidos
+Base: ruta directa con riesgo,bfs,6,10,26,25
+Base: ruta directa con riesgo,dijkstra,8,0,8,27
+Base: ruta directa con riesgo,astar,8,0,8,16
+Bloqueo de una celda de la ruta,bfs,6,10,26,24
+Bloqueo de una celda de la ruta,dijkstra,8,0,8,20
+Bloqueo de una celda de la ruta,astar,8,0,8,12
+Refugio aislado,bfs,,,,27
+Refugio aislado,dijkstra,,,,27
+Refugio aislado,astar,,,,27
+Corredor central ahora seco,bfs,6,0,6,25
+Corredor central ahora seco,dijkstra,6,0,6,23
+Corredor central ahora seco,astar,6,0,6,7
