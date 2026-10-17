@@ -59,13 +59,13 @@ que el validador falla como se espera y restaura la función original al termina
 el comportamiento defectuoso no permanece en la entrega. No se inventaron
 mediciones. El equipo debe comprobar y comprender la solución antes de presentarla.
 
-##INTEGRANTES TEAM DINAMITA:
+##INTEGRANTES TEAM REACH
 
-AZAEL FERNANDO ROMERO  ARTEAGA -CEO
+AZAEL FERNANDO ROMERO  ARTEAGA - 24393216
 
-MARIO SANTIAGO CHAN PUC
+MARIO SANTIAGO CHAN PUC - 24394103
 
-SMAEL VLADIMIR BRICEÑO OMAÑA - PEON
+ISMAEL VLADIMIR BRICEÑO OMAÑA 
 
 FRIDA NATALIA DZUL CHI
 
