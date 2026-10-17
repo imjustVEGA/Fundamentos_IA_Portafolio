@@ -1,16 +1,19 @@
-escenario,algoritmo,pasos,exposicion,costo,expandidos
-Base: ruta directa con riesgo,bfs,6,10,26,25
-Base: ruta directa con riesgo,dijkstra,8,0,8,27
-Base: ruta directa con riesgo,astar,8,0,8,16
-Bloqueo de una celda de la ruta,bfs,6,10,26,24
-Bloqueo de una celda de la ruta,dijkstra,8,0,8,20
-Bloqueo de una celda de la ruta,astar,8,0,8,12
-Refugio aislado,bfs,,,,27
-Refugio aislado,dijkstra,,,,27
-Refugio aislado,astar,,,,27
-Corredor central ahora seco,bfs,6,0,6,25
-Corredor central ahora seco,dijkstra,6,0,6,23
-Corredor central ahora seco,astar,6,0,6,7
-Laberinto: rodeo y callejones,bfs,10,0,10,22
-Laberinto: rodeo y callejones,dijkstra,10,0,10,22
-Laberinto: rodeo y callejones,astar,10,0,10,18
+escenario,algoritmo,pasos,exposicion,penalizacion_contextual,costo,expandidos
+Base: ruta directa con riesgo,bfs,6,10,0.5,26.5,25
+Base: ruta directa con riesgo,dijkstra,8,0,3.0,11.0,28
+Base: ruta directa con riesgo,astar,8,0,3.0,11.0,17
+Bloqueo de una celda de la ruta,bfs,6,10,0.5,26.5,24
+Bloqueo de una celda de la ruta,dijkstra,8,0,4.0,12.0,22
+Bloqueo de una celda de la ruta,astar,8,0,4.0,12.0,17
+Refugio aislado,bfs,,,,,27
+Refugio aislado,dijkstra,,,,,27
+Refugio aislado,astar,,,,,27
+Corredor central ahora seco,bfs,6,0,0,6,25
+Corredor central ahora seco,dijkstra,6,0,0,6,23
+Corredor central ahora seco,astar,6,0,0,6,7
+Laberinto: rodeo y callejones,bfs,10,0,3.5,13.5,22
+Laberinto: rodeo y callejones,dijkstra,10,0,2.5,12.5,21
+Laberinto: rodeo y callejones,astar,10,0,2.5,12.5,17
+Ruta segura vs ruta junto al río,bfs,6,0,2.5,8.5,27
+Ruta segura vs ruta junto al río,dijkstra,8,0,0,8,27
+Ruta segura vs ruta junto al río,astar,8,0,0,8,13

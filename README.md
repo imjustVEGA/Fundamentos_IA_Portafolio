@@ -22,15 +22,17 @@ ejecutado únicamente al completarse con éxito.
 
 ## Contenido y evidencia
 
-- BFS minimiza pasos; Dijkstra y A* minimizan `pasos + alfa × exposición`.
-- Cinco escenarios: base, nuevo bloqueo sobre una ruta, refugio aislado, cambio
-  de riesgo y laberinto con callejón sin salida. El caso base demuestra que el
-  camino más corto puede costar más.
+- BFS minimiza pasos; Dijkstra y A* minimizan `pasos + alfa × exposición` más
+  una penalización `BETA` por entrar en celdas secas adyacentes a niveles 2 o 3.
+- Seis escenarios: base, bloqueo de ruta, refugio aislado, cambio de riesgo,
+  laberinto con callejones sin salida y ruta segura junto al río. El caso base
+  demuestra que el camino más corto puede costar más.
 - Comparación real de pasos, exposición, costo y nodos expandidos.
 - Comprobación de rutas, casos límite y contraste con Bellman-Ford en 60 mapas
   sintéticos para cuatro valores de alfa, con semilla fija.
 - Barrido de alfa para mostrar cuándo cambia la decisión.
-- `resultados/rutas.png`, `comparacion.csv` y `pruebas.txt` se regeneran al ejecutar.
+- `resultados/rutas.png`, `resultados/rendimiento.png`, `comparacion.csv` y
+  `pruebas.txt` se regeneran al ejecutar.
 
 Las gráficas y salidas están incrustadas en el notebook. Los costos son unidades
 del modelo, no dinero, probabilidades ni mediciones de campo. La justificación
@@ -58,3 +60,10 @@ independiente. Una prueba inyecta temporalmente una ruta inválida para comproba
 que el validador falla como se espera y restaura la función original al terminar;
 el comportamiento defectuoso no permanece en la entrega. No se inventaron
 mediciones. El equipo debe comprobar y comprender la solución antes de presentarla.
+
+##INTEGRANTES
+AZAEL FERNANDO ROMERO  ARTEAGA
+MARIO CHAN 
+ISMAEL VLADIMIR 
+FRYDA 
+ALISON
