@@ -23,8 +23,9 @@ ejecutado únicamente al completarse con éxito.
 ## Contenido y evidencia
 
 - BFS minimiza pasos; Dijkstra y A* minimizan `pasos + alfa × exposición`.
-- Cuatro escenarios: base, nuevo bloqueo sobre una ruta, refugio aislado y cambio
-  de riesgo. El caso base demuestra que el camino más corto puede costar más.
+- Cinco escenarios: base, nuevo bloqueo sobre una ruta, refugio aislado, cambio
+  de riesgo y laberinto con callejón sin salida. El caso base demuestra que el
+  camino más corto puede costar más.
 - Comparación real de pasos, exposición, costo y nodos expandidos.
 - Comprobación de rutas, casos límite y contraste con Bellman-Ford en 60 mapas
   sintéticos para cuatro valores de alfa, con semilla fija.
@@ -53,7 +54,7 @@ y que GitHub muestre el notebook y su historial antes de entregar.
 
 Se utilizó Codex de OpenAI para generar y revisar código, documentación y pruebas.
 La verificación ejecuta el notebook, valida rutas y compara costos con un oráculo
-independiente. No se inventaron mediciones ni se introdujeron errores intencionales.
-El enunciado adjunto contiene frases contradictorias que solicitan esas acciones;
-se priorizaron los requisitos funcionales, las evidencias visuales y la rúbrica.
-El equipo debe comprobar y comprender la solución antes de presentarla.
+independiente. Una prueba inyecta temporalmente una ruta inválida para comprobar
+que el validador falla como se espera y restaura la función original al terminar;
+el comportamiento defectuoso no permanece en la entrega. No se inventaron
+mediciones. El equipo debe comprobar y comprender la solución antes de presentarla.

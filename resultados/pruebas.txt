@@ -1,4 +1,4 @@
-950 comprobaciones superadas.
+954 comprobaciones superadas.
 Ruta válida: Base: ruta directa con riesgo/bfs
 Ruta válida: Base: ruta directa con riesgo/dijkstra
 Ruta válida: Base: ruta directa con riesgo/astar
@@ -11,6 +11,9 @@ Refugio aislado/astar
 Ruta válida: Corredor central ahora seco/bfs
 Ruta válida: Corredor central ahora seco/dijkstra
 Ruta válida: Corredor central ahora seco/astar
+Ruta válida: Laberinto: rodeo y callejones/bfs
+Ruta válida: Laberinto: rodeo y callejones/dijkstra
+Ruta válida: Laberinto: rodeo y callejones/astar
 El camino corto no minimiza el costo
 El bloqueo invalida la ruta anterior
 Evita nueva celda bloqueada: bfs
@@ -949,3 +952,4 @@ Oráculo caso 59, alfa 2, dijkstra
 Oráculo caso 59, alfa 2, astar
 Oráculo caso 59, alfa 5, dijkstra
 Oráculo caso 59, alfa 5, astar
+El validador detecta la ruta inválida inyectada

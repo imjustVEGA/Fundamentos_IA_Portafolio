@@ -11,3 +11,6 @@ Refugio aislado,astar,,,,27
 Corredor central ahora seco,bfs,6,0,6,25
 Corredor central ahora seco,dijkstra,6,0,6,23
 Corredor central ahora seco,astar,6,0,6,7
+Laberinto: rodeo y callejones,bfs,10,0,10,22
+Laberinto: rodeo y callejones,dijkstra,10,0,10,22
+Laberinto: rodeo y callejones,astar,10,0,10,18
