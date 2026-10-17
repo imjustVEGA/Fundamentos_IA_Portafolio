@@ -59,16 +59,16 @@ que el validador falla como se espera y restaura la función original al termina
 el comportamiento defectuoso no permanece en la entrega. No se inventaron
 mediciones. El equipo debe comprobar y comprender la solución antes de presentarla.
 
-##INTEGRANTES TEAM REACH
+##INTEGRANTES 
 
 AZAEL FERNANDO ROMERO  ARTEAGA - 24393216
 
-MARIO SANTIAGO CHAN PUC - 24394103
+MARIO SANTIAGO CHAN PUC - 24393127
 
-ISMAEL VLADIMIR BRICEÑO OMAÑA 
+ISMAEL VLADIMIR BRICEÑO OMAÑA -24393219     
 
-FRIDA NATALIA DZUL CHI
+FRIDA NATALIA DZUL CHI -  24394111
 
-ALISON VALERIA HERRERA GOMEZ
+ALISON VALERIA HERRERA GOMEZ -24394110
 
-OWEN ARTURO BERMON VAZQUEZ
+OWEN ARTURO BERMON VAZQUEZ - 24394103
