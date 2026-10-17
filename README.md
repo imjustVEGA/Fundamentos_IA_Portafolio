@@ -38,16 +38,15 @@ está en el notebook; el PDF es opcional y no se incluye.
 ## Git y entrega pública
 
 Consultar `git log --oneline` para ver los cambios reales de desarrollo.
-Este repositorio local se preparó sin un remoto configurado. Para cumplir la
-entrega todavía es necesario publicarlo como repositorio público en la cuenta
-del equipo y entregar su URL. Después de crear el repositorio vacío en GitHub:
+El remoto configurado es
+[imjustVEGA/Fundamentos_IA_Portafolio](https://github.com/imjustVEGA/Fundamentos_IA_Portafolio).
+Para subir cambios posteriores:
 
 ```powershell
-git remote add origin https://github.com/USUARIO/REPOSITORIO.git
 git push -u origin main
 ```
 
-Sustituir los marcadores por los datos reales. Revisar la visibilidad pública
+La URL del repositorio es el enlace de entrega. Revisar su visibilidad pública
 y que GitHub muestre el notebook y su historial antes de entregar.
 
 ## Declaración de IA
